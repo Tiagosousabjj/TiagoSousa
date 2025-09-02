@@ -44,3 +44,7 @@ Testes
 <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="40" height="40"/>
 
 📫 Onde me encontrar
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
