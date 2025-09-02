@@ -2,8 +2,6 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul - Unipê, iniciei minha carreira como promotor de vendas antes de migrar para a área de tecnologia.
 
-💼 Atuei como estagiário na Fabrikaí por 1 ano e atualmente trabalho como QA (Quality Assurance), com experiência em:
-
 Testes manuais e automatizados
 
 Testes de regressão, funcionais, exploratórios, de desempenho e integração
@@ -14,7 +12,7 @@ Aplicação de boas práticas de automação
 
 Metodologias ágeis (Scrum) → participação em cerimônias, prática de Shift Left
 
-Gestão de tarefas com Jira
+Gestão de tarefas com Azure
 
 📚 Participei do curso da QA.Coders, com projetos reais e práticos que me deram uma vivência sólida e alinhada às demandas do mercado.
 
@@ -47,7 +45,5 @@ Testes
 ## 📫 Onde me encontrar  
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/alexandre-tiago-2a212b26a/)  
-&nbsp;&nbsp;
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>](https://github.com/Tiagosousabjj)
+&nbsp;&nbsp;[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>](https://github.com/Tiagosousabjj)
 
